@@ -38,6 +38,7 @@ div.col {
 }
 
 button {
+    design/color_update
     background-color: #22e600;
     border-radius: 5px;
     padding: 20px 50px;
@@ -49,7 +50,7 @@ button {
 }
 
 button:hover {
-    background-color: #980469;
+    background-color: #042e98;
 }
 
 button:active,
